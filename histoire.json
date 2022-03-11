@@ -1,0 +1,78 @@
+{
+  "0":{
+    "story":"Bravo, vous avez gagné",
+    "choices":0
+  },
+  "80":{ 
+    "story":"Vous vous faites emprisonner par le policier, et etes jugez coupable. Vous finissez avec une peine de prison a vie, et mourrez 5 ans plus tard toujours dans le meme penitencier.",
+    "choices":1,
+    "1":"0"
+  },
+  "1":{
+    "story":"Vous vous réveillez dans votre maison baser dans le district et vous vous dirigez vers le salon ou se trouve votre mère vous lui dites bonjours vous pouvez \n:one: : sortir\n:two: : aidez votre mère a préparer le repas\n:three: : aller retrouver votre amis sur la place centrale",
+    "choices":3,
+    "1":"2",
+    "2":"3",
+    "3":"4"
+  },
+  "2":{
+    "story":"vous sortez et vous dirigez vers la place centrale vous contournez la fontaine et vous dirigez vers la caserne des pacificateurs on vous y a donné rende vous pour récupérer votre arme ainsi qu'une convocation chez le juge pour avoir volé de la nourriture. une fois arriver devant le commissariat vous pouvez \n: one: : rentrer dans le commissariat d'un coup\n: two: : vous vous remémorez vaut supposer tort avant de rentrer\n: three: : vous vous denoncez a la police ",
+    "choices":3,
+    "1":"5",
+    "2":"6",
+    "3":"80"
+  },
+  "3":{
+   "story":"vous vous dirigez vers la cuisine une fois dans la pièce une délicieuse odeur vous frape les narine vous avez la chance d'être le fils de la meilleur cuisinière du district 12 mais jamais vous n'avez jamais l'occasion d'avoir autant d'aliment sauf quand <<ho nan maman c'est aujourd'hui la moisson>> <<et oui mon chéri c'est la vie et puis ne t'inquiète pas c'est ta dernière année après on vivra sans le moindre souci et en plus on a pas pris de tearce ton nom ne sera mit que huit fois il est pratiquement impossible que u te face tirer>> <<si tu le dits maman... mais sinon j'ai promis a julien de le retrouver a la fontaine j'ai le droit d'y aller>> <<oui mais soit revenu avant midi>> vous vous dirigez vers la sotie et sortez vous pouvez\n:one: : vous aller a la fontaine retrouver julien votre meilleur amis\n:tow: : vous vous dirigez d'abord vers le centre des pacificateur",
+   "choices":2,
+   "1":"2",
+   "2":"4"
+   },
+  "4":{
+    "story":"vous arrivez vers la fontaine et trouver plonger en pleine lecture comme d'habitude votre meilleur amis julien. vous lui donnez une tape sur l'épaule <<julien je suis la donc arrête de lire>> <<ho oui désoler max t'avais pas vu>> <<on se fait une partie de cache-cache le gagnant doit....>> <<il doit prendre la place de l'autre si il se fait tirer au sort>> vous répond julien <<ok>> les réglé du cache-cache son simple un des joueur ferme les yeux l'autre va se cacher celui qui a fermer les yeux doits le pister grâce a son instinct celui qui retrouve l'autre le plus vite a gagner. vous dites <<je commence a chercher je te laisse une minute pour te cacher>> <<ok>> après une minute vous finissez de comptez et vous pouvez alors \n:one: : jouer la force brut et ratisser tout le district\n:two: : la jouer plus stratégique et chercher les endroit ou aurait pu se cacher votre ami\n:three: : vous le pistez avec les piste qu'il a laisser par terre",
+    "choices":3,
+    "1":"7",
+    "2":"8",
+    "3":"9"
+  },
+  "5":{
+    "story":"vous rentrez en trombe dans le commissariat et vous dirigez vers la secrétaire <<bonjour madame je suis la car j'ai sois disant voler de la nourriture>> la secrétaire vous réponds <<encore toi max comme d'habitude Arthur t'attend dans son bureau>> <<merci Noémie>> vous vous dirigez vers le bureau du pacificateur le plus sympas de panem vous toquer et une voix gave vous répond <<tu peux rentrer max>> <<salut Arthur comment ça va>> <<je vais bien et toi max>> <<je vais bien mais j'irais encore mieux si on ne m'avait pas accuser d'avoir voler de la nourriture alors qu'ne réalité je voulais juste aider des gamin entrain de crever de faim>> <<je sais bien max mais le capitole lui s'en fous d'ailleurs prépare toi car malheureusement le capitole t'a prévu une surprise pour la moisson de cette année tu peux disposer>> <<a + Arthur>> vous vous dirigez vers la sorti une fois sorti vous pouvez \n:one: : aller a la fontaine si vous n'avez pas encore vu votre pote julien\n:two: si vous l'avez déja fais retourner chez vous",
+    "choices":2,
+    "1":"4",
+    "2":"10"
+  },
+  "6":{ 
+   "story":"c'était il y a une semaine vous reveniez de vos cours et vous fiassiez une partie de cache-cache alors que vous vous avancer vers la plaque vous aviez vu des gosse en train de voler de la nourriture a plus faible alors vous avez abattu un ou deux dindon voler quelque pain et vous étiez aller voir les brutaliser et vous leurs avez donner vos trouvaille mais un espion du capitaine vous avez vu il avait condamner les enfant a la flagellation vous vous êtes alors interposer entre le fouets et les gosse et avait blesser gravement le pacificateur avec son propre fouet. devant la porte vous rentrer ",
+   "choices":1,
+   "1":"5"
+  },
+  "7":{
+    "story":"vous commencez par la place centrale : vous soulevez les poubeller cherhez sous les banc dans les boutiques des principaux comercant vous en profitez pour faire les courses une fois terminer la place centrale vous prenez la route principale ou il se trouve devant vous trois intersection vous pouvez \n:one: : continuer tout droit\n:two: : aller a droite\n:three: : aller a gauche",
+    "choices":3,
+    "1":"11",
+    "2":"12",
+    "3":"13" 
+   },
+  "11":{
+    "story":"vous décider de continuer tout doit aprés environ 3 minute de marche vous arrivez a l'impasse des habitation ici se trouve toute les maison forment une impasse une cachette idéale pour un poursuivit vous décidez de rentrer dans toute les maisons une a une mais aprés une heure de recherche vous comprenez que vous vous êtes tromper \n:one: : vous retournez a la fontaine",
+    "choices":3,
+    "1":"4"
+  },
+  "12":{
+    "story":"vous prenez a droite : l'aller des comercant long a chercher mais une trés bonne cachette vous commencer par les cachette évidente les manequin deriére un comptoire aprés environs 30 minute de recherche vous chercher dans les cachette moin évidentes comme les égouts les poubelles dans les rayons mais aprés encore 40 minute de recherche acru vous comprenez qu'il n'est pas la. Vous retournez a la fontaine",
+    "choices":1,
+    "1":"4"
+  },
+  "13":{
+    "story":"vous vous dirigez vers la gauche : le cartier carcérale parfais pour une cachette vous cherchez dans les prisons dans les cage de fers sous la chaise éléctrique sous la plateforme de guillotine dans le cartier générale des pacificateur mais aprés 1 heure de recherche vous vous rendez compte que votre amis n'est surment pas la \n:one: : vous retournez a la fontaine",
+    "choices":3,
+    "1":"4"
+  },
+  "8":{
+    "story":"votre esprit stratégique prend le dessu et vous commencez à chercher dans les cachette où aurais pu se cacher votrte amis: le quartier générale des pacificateur, les habitation, les égouts mais non bien sur il sufit de chercher une cachette insolite mais alors il n'y'a qu'un seul endroit ou il aurait pu se cacher <<les camp>> vous vous exclamer. vous pouvez \n:one: : vous dirigez sans plus attendre vers les champs (1)\n:two: : décider plutôt de chercher vers le quartier carcérale au cas où (2)\n:three: : chercher vers les égouts (3)  ",
+    "choices":3,
+    "1":"14",
+    "2":"15",
+    "3":"16"
+  }   
+}
